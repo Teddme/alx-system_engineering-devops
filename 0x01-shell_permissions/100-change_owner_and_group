@@ -1,4 +1,0 @@
-#!/bin/bash
-chgrp -R . staff 
-chown -R . vincent
-~chmod +x /tmp/
